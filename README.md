@@ -37,23 +37,23 @@ purposes only.
 
 1. Clone the repository:
 
-git clone https://github.com/EpitechWebAcademiePromo2027/W-WEB-101-PAR-1-1-generateur_de_cv-8.git
+    git clone https://github.com/EpitechWebAcademiePromo2027/W-WEB-101-PAR-1-1-generateur_de_cv-8.git
 
 2. Navigate into the project folder:
 
-cd W-WEB-101-PAR-1-1-generateur_de_cv-8
+    cd W-WEB-101-PAR-1-1-generateur_de_cv-8
 
 3. Install dependencies:
 
-composer install
+    composer install
 
 4. Start the local PHP server:
 
-php -S localhost:8000
+    php -S localhost:8000
 
 5. Open your browser and go to:
 
-http://localhost:8000/cv.php
+    http://localhost:8000/cv.php
 
 ---
 
