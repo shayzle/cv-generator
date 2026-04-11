@@ -37,7 +37,7 @@ purposes only.
 
 1. Clone the repository:
 
-    git clone git@github.com:shayzle/cv-generator.git
+    git clone https://github.com/shayzle/cv-generator.git
 
 2. Navigate into the project folder:
 
