@@ -37,11 +37,11 @@ purposes only.
 
 1. Clone the repository:
 
-    git clone https://github.com/EpitechWebAcademiePromo2027/W-WEB-101-PAR-1-1-generateur_de_cv-8.git
+    git clone git@github.com:shayzle/cv-generator.git
 
 2. Navigate into the project folder:
 
-    cd W-WEB-101-PAR-1-1-generateur_de_cv-8
+    cd cv-generator
 
 3. Install dependencies:
 
