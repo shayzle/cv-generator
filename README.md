@@ -3,6 +3,8 @@
 A CV generator web application built with HTML, CSS, Bootstrap, JavaScript and PHP
 as part of my studies at Web@cadémie by Epitech, Paris.
 
+[Click Here The Website !](http://cv-generator.infinityfreeapp.com)
+
 ---
 
 ## About the Project
